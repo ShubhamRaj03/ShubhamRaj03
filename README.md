@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=ShubhamRaj03)
+
+![GitHub followers](https://img.shields.io/github/followers/ShubhamRaj03?style=social)
 # Hi, I'm Shubham Raj 👋
 
 Data Science Graduate | Machine Learning Enthusiast | Computer Vision Developer
