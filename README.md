@@ -122,8 +122,8 @@ Personal portfolio website showcasing projects, skills, and achievements.
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/shubham-raj-19403a252/
+- Email: shubhamrajbju12@gmail.com
 
 ---
 
