@@ -25,8 +25,15 @@ Data Science Graduate | Machine Learning Enthusiast | Computer Vision Developer
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamRaj03&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamRaj03&layout=compact)
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ### Programming Languages
 - Python
 - C++
@@ -102,11 +109,6 @@ Personal portfolio website showcasing projects, skills, and achievements.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamRaj03&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamRaj03&layout=compact)
 
 ---
 
